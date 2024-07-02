@@ -1,0 +1,15 @@
+html:5 boiler plate
+What is CDN?
+CDN stands for Content Delivery Network
+React is JS lib and built using it.
+oder of files in react is v.v.imp
+On browser console write React and React DOM for checking proper installation
+In CDN React 2 files 1st for basic dev and 2nd for react dom
+React is used in phns as rect native
+heading is an object where ("h1",
+ATTRIBUTES: { id:"heading", xyz:"abc"},
+CHILDREN: "Hello World from React!") are props
+render takes the object and create h1 tag aur browser ko deta h jo browser smjhta h
+<script src="./App.js"> should be at last cz js react use kr ri h
+agr root me kuch pda h alreday aur hm render kre replace hojayega
+react is lib not frame work work on a portion
